@@ -1,0 +1,3 @@
+public class Decode{
+    ArrayList<String> wordArray = new ArrayList<String>();
+}
